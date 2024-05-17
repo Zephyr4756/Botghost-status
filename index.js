@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["PLAYING","MUSIC"];
+const statusMessages = ["WATCHING FOR COMMANDS","🔥MADE BY ZEPHYR🔥"];
 
 
 let currentIndex = 0;
